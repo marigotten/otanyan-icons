@@ -36,14 +36,17 @@
 		"javascript": {
 			"iconPath": "./img/js.png"
 		},
+		"typescript": {
+			"iconPath": "./img/js.png"
+		},
 		"_git": {
 			"iconPath": "./img/git.png"
 		}
 	},
-	"folderExpanded": "_32312f",
+	"folderExpanded": "_folder",
 	"folder": "_folder",
 	"file": "_file",
-	"rootFolderExpanded": "_32312f",
+	"rootFolderExpanded": "_folder",
 	"rootFolder": "_root_folder",
 	"fileExtensions": {
 		"json": "json",
@@ -61,9 +64,7 @@
 		"esx": "js"
 	},
 	"fileNames": {
-		"package-json": "./img/package-json.png",
-		"package-lock-json": "./img/package-lock-json.png",
-		".gitignore": "./img/gitignore.png"
+		".gitignore": "_git"
 	},
 	"languageIds": {
 		"git": "_git",
@@ -72,8 +73,5 @@
 		"css": "_css",
 		"html": "_html",
 		"json": "_json"
-	},
-	"highContrast": {
-		// overrides for high contrast
 	}
 }
