@@ -1,9 +1,9 @@
 {
 	"name": "otanyan-icons",
-	"displayName": "otanyan-icons",
-    "description": "Icons from my cutest cat OTANYAN",
+	"displayName": "Otanyan Icons",
+	"description": "Icons from my cutest cat OTANYAN",
 	"publisher": "marigotten",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
@@ -15,6 +15,13 @@
 	],
 	"main": "./extension.js",
 	"contributes": {
+		"iconThemes": [
+			{
+				"id": "otanyan-icons",
+				"label": "Otanyan Icons",
+				"path": "/icons/otanyan-icons.json"
+			}
+		],
 		"commands": [
 			{
 				"command": "otanyan-icons.helloWorld",

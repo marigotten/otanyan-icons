@@ -1,28 +1,37 @@
 {
 	"iconDefinitions": {
 		"_root_folder": {
-			"iconPath": "./img/32312f.png"
+			"iconPath": "./img/ikamimi.png"
 		},
 		"_root_folder_open": {
-			"iconPath": "./img/32312f.png"
+			"iconPath": "./img/ikamimi_transparent.png"
 		},
 		"_folder": {
-			"iconPath": "./img/32312f.png"
+			"iconPath": "./img/ikamimi.png"
 		},
 		"_folder_open": {
-			"iconPath": "./img/32312f.png"
+			"iconPath": "./img/ikamimi_transparent.png"
 		},
 		"_file": {
+			"iconPath": "./img/nikukyu.png"
+		},
+		"_image": {
 			"iconPath": "./img/file.png"
 		},
+		"_package": {
+			"iconPath": "./img/package.png"
+		},
+		"_lock": {
+			"iconPath": "./img/lock.png"
+		},
 		"json": {
-			"iconPath": "./img/json.png"
+			"iconPath": "./img/wc.png"
 		},
 		"html": {
 			"iconPath": "./img/html.png"
 		},
 		"pug": {
-			"iconPath": "./img/tongue.png"
+			"iconPath": "./img/pug.png"
 		},
 		"css": {
 			"iconPath": "./img/css.png"
@@ -32,6 +41,9 @@
 		},
 		"scss": {
 			"iconPath": "./img/sass.png"
+		},
+		"vue": {
+			"iconPath": "./img/html.png"
 		},
 		"javascript": {
 			"iconPath": "./img/js.png"
@@ -43,14 +55,21 @@
 			"iconPath": "./img/git.png"
 		}
 	},
-	"folderExpanded": "_folder",
+	"folderExpanded": "_folder_open",
 	"folder": "_folder",
 	"file": "_file",
-	"rootFolderExpanded": "_folder",
+	"rootFolderExpanded": "_folder_open",
 	"rootFolder": "_root_folder",
 	"fileExtensions": {
 		"json": "json",
 		"json-tmlanguage": "json",
+		"jpeg": "_image",
+		"jpg": "_image",
+		"gif": "_image",
+		"png": "_image",
+		"bmp": "_image",
+		"ico": "_image",
+		"svg": "_image",
 		"html": "html",
 		"htm": "html",
 		"html_vm": "html",
@@ -58,13 +77,16 @@
 		"css": "css",
 		"scss": "sass",
 		"sass": "sass",
-		"js": "js",
-		"ts": "js",
+		"js": "javascript",
+		"ts": "javascript",
 		"ejs": "ota_summon",
-		"esx": "js"
+		"esx": "javascript",
+		"vue": "html"
 	},
 	"fileNames": {
-		".gitignore": "_git"
+		".gitignore": "_git",
+		"package.json": "_package",
+		"package-lock.json": "_lock"
 	},
 	"languageIds": {
 		"git": "_git",
