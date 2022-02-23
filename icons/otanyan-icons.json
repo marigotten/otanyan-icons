@@ -16,7 +16,10 @@
 			"iconPath": "./img/nikukyu.png"
 		},
 		"_image": {
-			"iconPath": "./img/file.png"
+			"iconPath": "./img/wh.png"
+		},
+		"_svg": {
+			"iconPath": "./img/transparent.png"
 		},
 		"_package": {
 			"iconPath": "./img/package.png"
@@ -24,35 +27,38 @@
 		"_lock": {
 			"iconPath": "./img/lock.png"
 		},
-		"json": {
+		"_config": {
 			"iconPath": "./img/wc.png"
 		},
-		"html": {
+		"_json": {
+			"iconPath": "./img/wc.png"
+		},
+		"_html": {
 			"iconPath": "./img/html.png"
 		},
-		"pug": {
-			"iconPath": "./img/pug.png"
+		"_engine": {
+			"iconPath": "./img/engine.png"
 		},
-		"css": {
+		"_css": {
 			"iconPath": "./img/css.png"
 		},
-		"sass": {
+		"_sass": {
 			"iconPath": "./img/sass.png"
 		},
-		"scss": {
-			"iconPath": "./img/sass.png"
-		},
-		"vue": {
-			"iconPath": "./img/html.png"
-		},
-		"javascript": {
+		"_javascript": {
 			"iconPath": "./img/js.png"
 		},
-		"typescript": {
-			"iconPath": "./img/js.png"
+		"_vue": {
+			"iconPath": "./img/summon_gr.png"
+		},
+		"_php": {
+			"iconPath": "./img/php.png"
 		},
 		"_git": {
-			"iconPath": "./img/git.png"
+			"iconPath": "./img/hidden.png"
+		},
+		"_vscode": {
+			"iconPath": "./img/summon_grey.png"
 		}
 	},
 	"folderExpanded": "_folder_open",
@@ -62,38 +68,48 @@
 	"rootFolder": "_root_folder",
 	"fileExtensions": {
 		"json": "json",
-		"json-tmlanguage": "json",
+		"json-tmlanguage": "_json",
 		"jpeg": "_image",
 		"jpg": "_image",
 		"gif": "_image",
 		"png": "_image",
 		"bmp": "_image",
 		"ico": "_image",
-		"svg": "_image",
-		"html": "html",
-		"htm": "html",
-		"html_vm": "html",
-		"asp": "html",
-		"css": "css",
-		"scss": "sass",
-		"sass": "sass",
-		"js": "javascript",
-		"ts": "javascript",
-		"ejs": "ota_summon",
-		"esx": "javascript",
-		"vue": "html"
+		"svg": "_svg",
+		"html": "_html",
+		"htm": "_html",
+		"html_vm": "_html",
+		"asp": "_html",
+		"css": "_css",
+		"scss": "_sass",
+		"sass": "_sass",
+		"js": "_javascript",
+		"ts": "_javascript",
+		"esx": "_javascript",
+		"pug": "_engine",
+		"ejs": "_engine",
+		"vue": "_vue",
+		"config": "_config"
+	},
+	"folderNames": {
+		".vscode": "_vscode",
+		"node_modules": "_git",
+		".nuxt": "_git"
 	},
 	"fileNames": {
 		".gitignore": "_git",
 		"package.json": "_package",
-		"package-lock.json": "_lock"
+		"package-lock.json": "_lock",
+		"wp-config.php": "_config"
 	},
 	"languageIds": {
 		"git": "_git",
 		"javascript": "_javascript",
-		"typescript": "_typescript",
+		"typescript": "_javascript",
 		"css": "_css",
 		"html": "_html",
+		"vue": "_vue",
+		"php": "_php",
 		"json": "_json"
 	}
 }
