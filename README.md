@@ -1,7 +1,5 @@
 # otanyan-icons README
 
-This is the README for your extension "otanyan-icons". After writing up a brief description, we recommend including the following sections.
-
 ## Installation
 
 To install the extension just execute the following command:
