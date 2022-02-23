@@ -1,0 +1,79 @@
+{
+	"iconDefinitions": {
+		"_root_folder": {
+			"iconPath": "./img/32312f.png"
+		},
+		"_root_folder_open": {
+			"iconPath": "./img/32312f.png"
+		},
+		"_folder": {
+			"iconPath": "./img/32312f.png"
+		},
+		"_folder_open": {
+			"iconPath": "./img/32312f.png"
+		},
+		"_file": {
+			"iconPath": "./img/file.png"
+		},
+		"json": {
+			"iconPath": "./img/json.png"
+		},
+		"html": {
+			"iconPath": "./img/html.png"
+		},
+		"pug": {
+			"iconPath": "./img/tongue.png"
+		},
+		"css": {
+			"iconPath": "./img/css.png"
+		},
+		"sass": {
+			"iconPath": "./img/sass.png"
+		},
+		"scss": {
+			"iconPath": "./img/sass.png"
+		},
+		"javascript": {
+			"iconPath": "./img/js.png"
+		},
+		"_git": {
+			"iconPath": "./img/git.png"
+		}
+	},
+	"folderExpanded": "_32312f",
+	"folder": "_folder",
+	"file": "_file",
+	"rootFolderExpanded": "_32312f",
+	"rootFolder": "_root_folder",
+	"fileExtensions": {
+		"json": "json",
+		"json-tmlanguage": "json",
+		"html": "html",
+		"htm": "html",
+		"html_vm": "html",
+		"asp": "html",
+		"css": "css",
+		"scss": "sass",
+		"sass": "sass",
+		"js": "js",
+		"ts": "js",
+		"ejs": "ota_summon",
+		"esx": "js"
+	},
+	"fileNames": {
+		"package-json": "./img/package-json.png",
+		"package-lock-json": "./img/package-lock-json.png",
+		".gitignore": "./img/gitignore.png"
+	},
+	"languageIds": {
+		"git": "_git",
+		"javascript": "_javascript",
+		"typescript": "_typescript",
+		"css": "_css",
+		"html": "_html",
+		"json": "_json"
+	},
+	"highContrast": {
+		// overrides for high contrast
+	}
+}
