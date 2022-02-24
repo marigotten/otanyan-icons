@@ -1,5 +1,8 @@
 # otanyan-icons README
 
+## Example
+![Example](example.png)
+
 ## Installation
 
 To install the extension just execute the following command:
@@ -9,8 +12,8 @@ ext install otanyan-icons
 ```
 
 ## Usage
-* `Linux` & `Windows` > **File > Preferences > File Icon Theme > otanyan-icons**.
-* `MacOS` > **Code > Preferences > File Icon Theme > otanyan-icons**.
+* `Linux` & `Windows` > **File > Preferences > File Icon Theme > Otanyan Icons**.
+* `MacOS` > **Code > Preferences > File Icon Theme > Otanyan Icons**.
 
 ### For more information
 

@@ -54,11 +54,14 @@
 		"_php": {
 			"iconPath": "./img/php.png"
 		},
+		"_glsl": {
+			"iconPath": "./img/tooth.png"
+		},
 		"_git": {
 			"iconPath": "./img/hidden.png"
 		},
 		"_vscode": {
-			"iconPath": "./img/summon_grey.png"
+			"iconPath": "./img/summon_dark.png"
 		}
 	},
 	"folderExpanded": "_folder_open",
@@ -89,6 +92,9 @@
 		"pug": "_engine",
 		"ejs": "_engine",
 		"vue": "_vue",
+		"glsl": "_glsl",
+		"vert": "_glsl",
+		"frag": "_glsl",
 		"config": "_config"
 	},
 	"folderNames": {

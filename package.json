@@ -3,7 +3,7 @@
 	"displayName": "Otanyan Icons",
 	"description": "Icons from my cutest cat OTANYAN",
 	"publisher": "marigotten",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
@@ -24,7 +24,7 @@
 		],
 		"commands": [
 			{
-				"command": "otanyan-icons.meow",
+				"command": "otanyan-icons.helloWorld",
 				"title": "hey otanyan"
 			}
 		]
